@@ -1,0 +1,30 @@
+{
+  "packages": [
+    {
+      "name": "MegaCore",
+      "maintainer": "Xiocid",
+      "websiteURL": "https://github.com/AlexTutorial",
+      "email": "",
+      "help": {
+        "online": "https://github.com/AlexTutorial/MegaCore"
+      },
+      "platforms": [        
+		{
+          "name": "MegaCore",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+		  "url": "Null",
+          "archiveFileName": "MegaCore.zip",
+          "checksum": "MD5:f489031993c5cf1827f8bc8a95225a83",
+          "size": "59050970",
+          "boards": [
+            {"name": "ATmega2560 based boards"}
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
