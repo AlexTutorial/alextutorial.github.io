@@ -14,10 +14,10 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
-		  "url": "Null",
+		  "url": "https://alextutorial.github.io/downloads/MegaCore/v.1.0.0%20dev/MegaCore.zip",
           "archiveFileName": "MegaCore.zip",
-          "checksum": "MD5:f489031993c5cf1827f8bc8a95225a83",
-          "size": "59050970",
+          "checksum": "hex: f79d06e3ce5974451488b299e88b0c0cabe20b26db59224a274915a8eeb276b9",
+          "size": "357997",
           "boards": [
             {"name": "ATmega2560 based boards"}
           ],
