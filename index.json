@@ -16,8 +16,8 @@
           "category": "Contributed",
 		  "url": "https://alextutorial.github.io/downloads/MegaCore/MegaCore.zip",
           "archiveFileName": "MegaCore.zip",
-          "checksum": "SHA-256:B16AB9A9671389570C4DADBB5DA7AD221C8369CE761129C005870DA2A47344FE",
-          "size": "38292809",
+          "checksum": "SHA-256:BBC2134BD8E04562C0DEA97286A33EF53AD57733EB0DFFE63A63D3A844B3E68B",
+          "size": "18297046",
           "boards": [
             {"name": "ATmega2560 based boards"}
           ],
